@@ -1,1 +1,2 @@
 name: Go-Gitter's approval workflow
+on: pull_request_review
